@@ -25,29 +25,30 @@ git clone https://github.com/gmalisse/area-plantada-vs-rendimento.git
 
 Abra o arquivo `tratamento/tratamento_tabelas.ipynb` para visualizar o tratamento de dados feito com Python e Pandas.
 
-### 3. Abrir o Dashboard no Powwer BI
+### 2. Abrir o Dashboard no Power BI
 
 Use o arquivo `area_plantada_x_rendimento.pbix` no Power BI Desktop para visualizar os gráficos.
+Opcionalmente, pode-se abrir o arquivo `tratamento/tratamento_tabelas.ipynb` para visualizar o tratamento de dados feito com Python e Pandas, não sendo necessário rodar o script, já que os arquivos CSV com os dados tratados também se encontram no repositório.
 
 ---
 
 ## 🛠️ Etapas do Projeto
 
 1. **Extração de Dados**  
-   Os dados foram obtidos a partir do site oficial do [SIDRA/IBGE](https://sidra.ibge.gov.br/tabela/1612). Foram selecionadas e baixadas no formato CSV as seguintes tabelas para os anos de 1988 a 2023:
+   Os dados foram obtidos a partir do site oficial do [SIDRA/IBGE](https://sidra.ibge.gov.br/tabela/1612). No site é possível definir o modelo que a tabela será baixada. As tabelas baixadas seguem o modelo relacional tradicional, onde cada coluna representa um atributo (ex: cultura, ano, UF) e cada linha representa uma tupla, permitindo a fácil manipulação, cruzamento e análise dos dados.
+ Foram selecionadas e baixadas no formato CSV as seguintes tabelas para os anos de 1988 a 2023:
    - Área plantada (ha)
    - Rendimento médio da produção (kg/ha) 
    Todas referentes às principais lavouras do país.
 
 2. **Pré-processamento no Excel**  
-   Os arquivos CSV foram abertos no Excel para pequenas correções manuais, como:
-   - Substituição de caracteres especiais: `ã` por `a` e `ç` por `c`.
+   Os arquivos CSV foram abertos no Excel para pequenas correções manuais, como substituição de caracteres especiais: `ã` por `a` e `ç` por `c`.
 
 3. **Tratamento de Dados com Python (Pandas)**  
    Os dados foram tratados e limpos utilizando a biblioteca `pandas`, com foco em:
    - Padronização de colunas
-   - Conversão de tipos
-   - Remoção de dados inconsistentes
+   - Definição de separador e valores nulos
+   - Remoção de linhas desnecessárias como cabeçalhos múltiplos e linhas de fonte e notas do IBGE
 
 4. **Importação e Modelagem no Power BI**  
    Os arquivos CSV tratados foram carregados no Power BI para construção do modelo de dados e visualizações.
@@ -70,7 +71,7 @@ Use o arquivo `area_plantada_x_rendimento.pbix` no Power BI Desktop para visuali
    - Clareza visual e facilidade de interpretação
    - Comparações entre culturas, estados e anos
    - Identificação de padrões como alta produção com baixo rendimento ou vice-versa  
-   Foram utilizados gráficos de colunas, linhas, mapas e segmentações para tornar a análise intuitiva e acessível mesmo para quem não tem familiaridade com os dados.
+   Foram utilizados gráficos de colunas, linhas, mapas e segmentações para tornar a análise intuitiva e acessível mesmo para quem não tem familiaridade com os dados. Além disso, todo o dashboard foi estilizado com as cores da empresa John Deere
 
    
 ---
