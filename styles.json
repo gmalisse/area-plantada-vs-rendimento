@@ -1,0 +1,28 @@
+{
+    "name": "John Deere Simple Theme",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "outspacePane": [{
+                    "backgroundColor": {"solid": {"color": "#F5F5F5"}}
+                }],
+                "background": [{
+                    "color": {"solid": {"color": "#FFFFFF"}}
+                }],
+                "title": [{
+                    "fontColor": {"solid": {"color": "#367C2B"}}
+                }]
+            }
+        },
+        "dataColors": {
+            "primary": [
+                {"color": {"solid": {"color": "#367C2B"}}},
+                {"color": {"solid": {"color": "#FFDE00"}}},
+                {"color": {"solid": {"color": "#1A3E14"}}}
+            ]
+        },
+        "goodColor": {"solid": {"color": "#367C2B"}},
+        "neutralColor": {"solid": {"color": "#FFDE00"}},
+        "background": {"solid": {"color": "#FFFFFF"}}
+    }
+}
