@@ -1,7 +1,7 @@
 # 📊 Dashboard de Análise de Dados - John Deere
 
 Projeto de análise de dados desenvolvido como parte de uma iniciativa pessoal para a visita à empresa John Deere. O objetivo foi cruzar dados de **área plantada** e **rendimento agrícola** para gerar insights relevantes de forma visual e acessível.
-
+![Demonstração do Dashboard](assets/demo-dashboard.gif)
 ---
 
 ## 🧰 Tecnologias e Ferramentas Utilizadas
@@ -57,21 +57,24 @@ pip install pandas
 
 4. **Importação e Modelagem no Power BI**  
    Os arquivos CSV tratados foram carregados no Power BI para construção do modelo de dados e visualizações.
+   Ao importar o modelo inicial era:
+   ![Modelo inicial](assets/modelo-inicial.png)
 
-5. **Unificação das Tabelas de Fato**  
+6. **Unificação das Tabelas de Fato**  
    Como as três tabelas possuiam colunas em comum (cultura, UF, ano), foi realizada uma junção (INNER JOIN) entre elas no Power Query, criando uma tabela fato única. As tabelas originais foram desabilitadas da carga para otimização do modelo.
 
-6. **Criação de Tabelas Dimensão**  
+7. **Criação de Tabelas Dimensão**  
    Foram criadas tabelas dimensão diretamente no Power BI para segmentar e organizar as informações, como:
    - Dimensão de Culturas
    - Dimensão de Unidades da Federação
    - Dimensão de Período  
    O uso de SQL foi descartado neste caso, pois o volume de dados não exigia um banco de dados relacional robusto.
 
-7. **Modelagem em Estrela**  
-   O modelo de dados foi estruturado no formato estrela (Star Schema), com relacionamentos 1:N entre as tabelas dimensão e a tabela fato, garantindo melhor desempenho e facilidade na manutenção e expansão do projeto.
+8. **Modelagem em Estrela**  
+   O modelo de dados foi estruturado no formato estrela (Star Schema), com relacionamentos 1:N entre as tabelas dimensão e a tabela fato, garantindo melhor desempenho e facilidade na manutenção e expansão do projeto:
+   ![Modelo estrela](assets/modelo-estrela.png)
 
-8. **Criação do Dashboard no Power BI**  
+10. **Criação do Dashboard no Power BI**  
    Com os dados tratados e o modelo relacional estruturado, foram desenvolvidas visualizações interativas no Power BI para facilitar a análise dos dados. O dashboard foi construído com foco em:
    - Clareza visual e facilidade de interpretação
    - Comparações entre culturas, estados e anos
