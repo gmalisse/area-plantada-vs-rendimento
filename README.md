@@ -23,7 +23,17 @@ git clone https://github.com/gmalisse/area-plantada-vs-rendimento.git
 ### 2. Abrir o Dashboard no Power BI
 
 Abra o arquivo `dashboard.pbix` no Power BI Desktop para visualizar os gráficos.
-Opcionalmente, pode-se abrir o arquivo `scripts/tratamento_dados.py` para visualizar o tratamento de dados feito com Python e Pandas, não sendo necessário rodar o script, já que os arquivos CSV com os dados tratados também se encontram no repositório. Se desejar rodar o script para testar, alterar o caminho do csv original e do tratado de acordo com sua máquina.
+
+### 3. Rodar Script (opcional)
+
+Os arquivos CSV com os dados tratados já se encontram no repositório tornando esse passo opcional. Pode-se abrir o arquivo `scripts/tratamento_dados.py` para visualizar e testar o tratamento de dados feito com Python. Este projeto utiliza a biblioteca [pandas](https://pandas.pydata.org/) para tratamento de dados.  
+Se você ainda não possui o pandas instalado, rode o seguinte comando no terminal:
+
+```bash
+pip install pandas
+```
+
+ Antes de rodar o script, alterar o caminho do arquivo csv original e do tratado de acordo com sua máquina.
 
 ---
 
