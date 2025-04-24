@@ -1,6 +1,7 @@
 # 📊 Dashboard de Análise de Dados - John Deere
 
 Projeto de análise de dados desenvolvido como parte de uma iniciativa pessoal para a visita à empresa John Deere. O objetivo foi cruzar dados de **área plantada** e **rendimento agrícola** para gerar insights relevantes de forma visual e acessível.
+
 ![Demonstração do Dashboard](assets/demo-dashboard.gif)
 ---
 
