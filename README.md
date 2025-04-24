@@ -9,7 +9,6 @@ Projeto de análise de dados desenvolvido como parte de uma iniciativa pessoal p
 - Python (Pandas)
 - Power BI
 - Excel
-- Jupyter Notebook
 - CSV
 
 ---
@@ -21,14 +20,10 @@ Projeto de análise de dados desenvolvido como parte de uma iniciativa pessoal p
 git clone https://github.com/gmalisse/area-plantada-vs-rendimento.git
 ```
 
-### 2. Abrir o Jupyter Notebook
-
-Abra o arquivo `tratamento/tratamento_tabelas.ipynb` para visualizar o tratamento de dados feito com Python e Pandas.
-
 ### 2. Abrir o Dashboard no Power BI
 
-Use o arquivo `area_plantada_x_rendimento.pbix` no Power BI Desktop para visualizar os gráficos.
-Opcionalmente, pode-se abrir o arquivo `tratamento/tratamento_tabelas.ipynb` para visualizar o tratamento de dados feito com Python e Pandas, não sendo necessário rodar o script, já que os arquivos CSV com os dados tratados também se encontram no repositório.
+Abra o arquivo `dashboard.pbix` no Power BI Desktop para visualizar os gráficos.
+Opcionalmente, pode-se abrir o arquivo `scripts/tratamento_dados.py` para visualizar o tratamento de dados feito com Python e Pandas, não sendo necessário rodar o script, já que os arquivos CSV com os dados tratados também se encontram no repositório. Se desejar rodar o script para testar, alterar o caminho do csv original e do tratado de acordo com sua máquina.
 
 ---
 
