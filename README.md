@@ -112,6 +112,8 @@ Dado o seu **papel central no agronegócio brasileiro**, é fundamental manter e
 O estado do **Rio Grande do Sul** possui uma área plantada sete vezes maior que Rondônia, sendo um dos principais produtores agrícolas do país. Nos últimos **10 anos (2014–2023)**, houve um crescimento de **25,1% na área plantada**, indicando uma expansão consistente, porém mais moderada em relação a estados emergentes.
 Apesar disso, o estado registrou uma **queda de 16,5% no rendimento**. Essa redução pode estar relacionada a **questões climáticas**, **condições do solo**, ou até mesmo à necessidade de **investimentos em tecnologia e infraestrutura agrícola**. 
 
+---
+
 ## 🔍 Próximos Passos
 
 Esta análise oferece uma visão geral da evolução da área plantada e do rendimento agrícola no Brasil entre 2014 e 2023. No entanto, para extrair **insights mais precisos e direcionados**, seria interessante cruzar esses dados com outras variáveis contextuais, como:
