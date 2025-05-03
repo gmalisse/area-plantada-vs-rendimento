@@ -90,14 +90,14 @@ Apesar de o conjunto de dados abranger o período de 1988 a 2023, a análise foi
 
 - **🏆 Culturas Dominantes**
   
-  A **soja representa 55%** da área plantada nacional, sendo a principal cultura agrícola do Brasil, seguida por **milho (28%)** e **cana-de-açúcar (12%)**.
+A **soja representa 55%** da área plantada nacional, sendo a principal cultura agrícola do Brasil, seguida por **milho (28%)** e **cana-de-açúcar (12%)**.
 
-  A **soja e o milho** predominam nas regiões **Centro-Oeste e Sul**, que formam o grande polo nacional da agricultura. Para ambas as culturas, a área plantada vem acompanhando o rendimento, o que pode indicar que o **crescimento está  ocorrendo de forma sustentável**, com ganhos em produção proporcional ao aumento de área.
+A **soja e o milho** predominam nas regiões **Centro-Oeste e Sul**, que formam o grande polo nacional da agricultura. Para ambas as culturas, a área plantada vem acompanhando o rendimento, o que pode indicar que o **crescimento está  ocorrendo de forma sustentável**, com ganhos em produção proporcional ao aumento de área.
 
-  Enquanto isso, a **cana-de-açúcar** apresenta **predominância absoluta no estado de São Paulo**. Essa cultura teve uma **pequena redução de 3,6% na área plantada**, com oscilações ao longo do tempo, enquanto seu **rendimento cresceu 5%**, indicando uma **estabilidade produtiva**.  
-  É importante destacar o **rendimento excepcional dessa cultura**, que foi de **606,5 toneladas por hectare** no último ano analisado, muito acima das demais.
+Enquanto isso, a **cana-de-açúcar** apresenta **predominância absoluta no estado de São Paulo**. Essa cultura teve uma **pequena redução de 3,6% na área plantada**, com oscilações ao longo do tempo, enquanto seu **rendimento cresceu 5%**, indicando uma **estabilidade produtiva**.  
+É importante destacar o **rendimento excepcional dessa cultura**, que foi de **606,5 toneladas por hectare** no último ano analisado, muito acima das demais.
 
-    Dado o seu **papel central no agronegócio brasileiro**, é fundamental manter e ampliar **investimentos em tecnologia, pesquisa e infraestrutura** nessas culturas e regiões com grande área plantada e altos rendimentos. Isso assegura a continuidade do crescimento sustentável e fortalece o Brasil como potência agrícola global.
+Dado o seu **papel central no agronegócio brasileiro**, é fundamental manter e ampliar **investimentos em tecnologia, pesquisa e infraestrutura** nessas culturas e regiões com grande área plantada e altos rendimentos. Isso assegura a continuidade do crescimento sustentável e fortalece o Brasil como potência agrícola global.
   
 - **🌾 Caso de Destaque: Rondônia**
 
