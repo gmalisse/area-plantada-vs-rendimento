@@ -86,7 +86,7 @@ pip install pandas
 
 ## 📊 Insights Extraídos
 
-Apesar de o conjunto de dados abranger o período de 1988 a 2023, a análise foi focada nos últimos 10 anos (**2014–2023**) para garantir maior relevância e atualidade nos insights. A partir da análise, foram identificados os seguintes destaques:
+Apesar de o conjunto de dados abranger o período de 1988 a 2023, a análise foi focada nos últimos 10 anos (**2014-2023**) para garantir maior relevância e atualidade nos insights. A partir da análise, foram identificados os seguintes destaques:
 
 - **🏆 Culturas Dominantes**
   
@@ -101,7 +101,7 @@ Dado o seu **papel central no agronegócio brasileiro**, é fundamental manter e
   
 - **🌾 Caso de Destaque: Rondônia**
 
- Nos últimos **10 anos (2014–2023)**, o estado de **Rondônia** apresentou um crescimento expressivo de **152% na área plantada**, evidenciando uma forte expansão da atividade agrícola. No entanto, no mesmo período, houve uma **queda de   37,2% no rendimento (produção por hectare)**.
+ Nos últimos **10 anos (2014-2023)**, o estado de **Rondônia** apresentou um crescimento expressivo de **152% na área plantada**, evidenciando uma forte expansão da atividade agrícola. No entanto, no mesmo período, houve uma **queda de   37,2% no rendimento (produção por hectare)**.
 
  Esse contraste sugere um **descompasso entre expansão e eficiência**, indicando um possível **potencial para investimentos em modernização e maquinário agrícola**.
 
@@ -109,7 +109,7 @@ Dado o seu **papel central no agronegócio brasileiro**, é fundamental manter e
 
  - **🌾 Caso de Destaque: Rio Grande do Sul**
 
-O estado do **Rio Grande do Sul** possui uma área plantada sete vezes maior que Rondônia, sendo um dos principais produtores agrícolas do país. Nos últimos **10 anos (2014–2023)**, houve um crescimento de **25,1% na área plantada**, indicando uma expansão consistente, porém mais moderada em relação a estados emergentes.
+O estado do **Rio Grande do Sul** possui uma área plantada sete vezes maior que Rondônia, sendo um dos principais produtores agrícolas do país. Nos últimos **10 anos (2014-2023)**, houve um crescimento de **25,1% na área plantada**, indicando uma expansão consistente, porém mais moderada em relação a estados emergentes.
 Apesar disso, o estado registrou uma **queda de 16,5% no rendimento**. Essa redução pode estar relacionada a **questões climáticas**, **condições do solo**, ou até mesmo à necessidade de **investimentos em tecnologia e infraestrutura agrícola**. 
 
 ---
